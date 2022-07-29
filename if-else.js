@@ -5,3 +5,10 @@ if(myName==="Emmanuel Chukwuneta"){
 }else{
     console.log("This is not me")
 }
+
+
+for(let count = 1;count<13;count++){
+    let result = count *13;
+    console.log(result)
+}
+

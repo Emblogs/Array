@@ -13,6 +13,7 @@ if(12){
     if(90<50){
     console.log("You fail")}
 
+
 console.log(true && false)
 console.log(true && true)
 console.log(false && false)
