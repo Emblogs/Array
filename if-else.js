@@ -9,6 +9,7 @@ if(myName==="Emmanuel Chukwuneta"){
 
 for(let count = 1;count<13;count++){
     let result = count *13;
-    console.log(result)
+    let display=count+" * "+13+" = "+result;
+    console.log(display)
 }
 
